@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/icons/largeIcon.png" width="128" alt="Stash for webOS icon"></p>
+
 # Stash for webOS
 
 An unofficial [Stash](https://github.com/stashapp/stash) client for LG webOS TVs, made for the remote and careful with the TV's small storage.
@@ -5,6 +7,20 @@ An unofficial [Stash](https://github.com/stashapp/stash) client for LG webOS TVs
 It is inspired by the Android TV clients [StashAppAndroidTV](https://github.com/damontecres/StashAppAndroidTV) and [Sinema](https://github.com/visorcraft/Sinema), and was tested against Stash v0.31. It needs Stash v0.27 or newer, the version that renamed movies to groups.
 
 If you enjoy it, please consider [buying me a Ko-fi](https://ko-fi.com/pustal).
+
+## Screenshots
+
+| Home | Scenes |
+| :---: | :---: |
+| <img src="docs/screenshots/home.png" alt="Home"> | <img src="docs/screenshots/scenes.png" alt="Scenes"> |
+| **Scene page** | **Player** |
+| <img src="docs/screenshots/scene.png" alt="Scene page"> | <img src="docs/screenshots/player.png" alt="Player"> |
+| **Performers** | **Performer page** |
+| <img src="docs/screenshots/performers.png" alt="Performers"> | <img src="docs/screenshots/performer.png" alt="Performer page"> |
+| **Gallery** | **Filter panel** |
+| <img src="docs/screenshots/gallery.png" alt="Gallery"> | <img src="docs/screenshots/filter.png" alt="Filter panel"> |
+
+<sub>Shown with a demo library of procedurally drawn landscapes and fictional performers, on a Stash v0.31 server.</sub>
 
 ## Features
 
